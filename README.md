@@ -1,4 +1,4 @@
-# Homework 4 - Basis Function Expansions
+# Homework 4 - Interpolation and quadrature
 
 In this homework, you will find the questions in [answers.ipynb](answers.ipynb).  This is convenient for displaying math equations. You can use [answers.ipynb](answers.ipynb) for written answers and running simulations/displaying plots.
 
