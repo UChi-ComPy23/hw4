@@ -22,6 +22,7 @@ The following rubric will be used for grading.
 | Problem 0 | /35 |
 | Problem 1 | /20 |
 | Problem 2 | /20 |
+| Problem 3 | /20 |
 
 Correctness will be based on code (i.e. did you provide was was asked for) and the content of [`answers.ipynb`](answers.ipynb).
 
